@@ -1,0 +1,1 @@
+EmployeeBean implements Serializable
